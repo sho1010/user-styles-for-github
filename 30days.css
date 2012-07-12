@@ -1,0 +1,38 @@
+.github-logo-4x-hover {
+opacity:1;
+}
+
+#header {
+background:#222;
+/*position: fixed;
+ * width:100%;*/
+}
+
+#header a {
+text-shadow: none;
+color: #b81717;
+}
+
+.pagehead > ul.tabs {
+background:#222;
+}
+
+.pagehead > ul.tabs li a {
+text-shadow: none;
+color: #b81717;
+}
+
+.pagehead > ul.tabs li a.selected, .pagehead > ul.tabs li a.selected:hover {
+background:#444;
+}
+
+.pagehead > ul.tabs li a.selected, .pagehead > ul.tabs li a.selected:hover {
+color:#CCC;
+}
+
+/* wiki */
+
+#wiki-body h2 {
+color: #b81717;
+}
+
