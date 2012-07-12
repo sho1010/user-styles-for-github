@@ -10,6 +10,8 @@ GitHub の見た目を変更するためのユーザスタイルです。ペパ�
 
 このスタイルは、[Stylist](https://chrome.google.com/webstore/detail/pabfempgigicdjjlccdgnbmeggkbjdhd) や [Stylish](https://chrome.google.com/webstore/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe) で利用できます。
 
+----
+
 ## 使い方
 
 Stylist の場合は、以下のように設定します。
@@ -17,3 +19,9 @@ Stylist の場合は、以下のように設定します。
 ![stylist](https://github.com/paperboy-all/user-styles-for-github/raw/master/images/stylist.png)
 
 スタイルを適用したいサービスの GitHub URL に対して、適した CSS を貼り付けてください。
+
+----
+
+## スタイルの提供をお願いします
+
+スタイルを作成した方は、ぜひ提供ををお願いします。（このリポジトリを fork して、pull request してください。）
